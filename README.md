@@ -5,6 +5,7 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+- [📖 Frontend App Link](#frontend)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -26,6 +27,10 @@
 # 📖 Rails Backend API <a name="about-project"></a>
 
 The application serves as the back end of the randow greetings that we will render on the front end app
+
+# 📖 Link to Frontend App <a name="frontend"></a>
+
+[Click here](https://github.com/firepicaso/hello-react-front-end.git)
 
 ## 🛠 Built With <a name="built-with"></a>
 
